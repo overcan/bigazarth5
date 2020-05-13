@@ -1,4 +1,7 @@
 <?xml version="1.0"?>
+
 <Client buildversion="9.0.0.1" cefversion="70.0.3538.102">
-   <Mirror>http://bigazartdownload.com</Mirror>
+
+<Mirror>https://bigazartdownload.com</Mirror>
+
 </Client>
